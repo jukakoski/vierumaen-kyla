@@ -4,7 +4,7 @@ title: Heikkimäessä pöhisee
 slug: heikkimäki-pöhinä
 date: 2021-11-30 23:04
 description: Heikkimäki vierumäki
-featuredImage: https://businessheinola.fi/wp-content/uploads/2019/07/vuohkallio500.jpg
+featuredImage: /assets/vuohkallio500.jpeg
 ---
 Nyt on kova meno päällä Vierumäellä. Heikkimäessä Weckman aloitti uuden hallinsa rakennustyöt!
 
