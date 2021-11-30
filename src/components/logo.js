@@ -1,9 +1,11 @@
 import React from "react"
 import { Link } from "gatsby"
 
+// {props.title}
+
 const Logo = props => (
   <div className="site-logo">
-    <Link to="/">{props.title}</Link>
+    <Link to="/">Vierumäen kylä</Link>
   </div>
 )
 
